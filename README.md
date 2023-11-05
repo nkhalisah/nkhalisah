@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khalisah</h1>
-<h3 align="center">A passionate Computer Science student from Malaysia</h3>
+
 
 - 📫 How to reach me **khalisahridzuan@gmail.com**
 
